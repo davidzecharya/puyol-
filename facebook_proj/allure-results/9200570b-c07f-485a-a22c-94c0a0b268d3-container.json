@@ -1,0 +1,1 @@
+{"uuid":"9200570b-c07f-485a-a22c-94c0a0b268d3","name":"connectToBrowser","children":["c4ca79e4-4a5c-4f9c-9c48-1d9e2b9e2412"],"befores":[{"name":"startSession","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1587390727176,"stop":1587390743488}],"afters":[],"links":[],"start":1587390727144,"stop":1587390743934}
